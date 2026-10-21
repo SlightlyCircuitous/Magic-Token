@@ -18223,6 +18223,18 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Oko, Lord of the Fae Emblem</name>
+            <text>At the beginning of your upkeep, conjure a random planeswalker card into exile. You may cast that card this turn without paying its mana cost.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>YFRA</set>
+            <reverse-related exclude="exclude">Oko, Lord of the Fae</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Oko, Shadowmoor Scion Emblem</name>
             <text>Creatures you control of the chosen type get +3/+3 and have vigilance and hexproof.</text>
             <prop>
