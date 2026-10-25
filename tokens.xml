@@ -12302,6 +12302,7 @@ If enchanted player would lose life, they lose twice that much life instead.</te
             <reverse-related>Servo Schematic</reverse-related>
             <reverse-related>Sly Requisitioner</reverse-related>
             <reverse-related count="3">Sram's Expertise</reverse-related>
+            <reverse-related count="4">Support Skyforge</reverse-related>
             <reverse-related count="2">Visionary Augmenter</reverse-related>
             <reverse-related count="2">Weaponcraft Enthusiast</reverse-related>
             <token>1</token>
